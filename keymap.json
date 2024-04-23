@@ -1,8 +1,10 @@
 [
   {
     "bindings": {
-      "ctrl-t": "terminal_panel::ToggleFocus",
-      "ctrl-e": "project_panel::ToggleFocus"
+      "alt-h": "project_panel::ToggleFocus",
+      "alt-j": "terminal_panel::ToggleFocus",
+      "alt-k": "terminal_panel::ToggleFocus",
+      "alt-l": "project_panel::ToggleFocus"
     }
   },
   {
