@@ -1,10 +1,17 @@
 [
   {
     "bindings": {
-      "alt-h": "project_panel::ToggleFocus",
+      "ctrl-h": "project_panel::ToggleFocus",
       "alt-j": "terminal_panel::ToggleFocus",
       "alt-k": "terminal_panel::ToggleFocus",
-      "alt-l": "project_panel::ToggleFocus"
+      "ctrl-l": "project_panel::ToggleFocus"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "alt-h": "pane::ActivatePrevItem",
+      "alt-l": "pane::ActivateNextItem"
     }
   },
   {
