@@ -6,8 +6,12 @@
     "use_system_clipboard": "always"
   },
   "vim_mode": true,
+<<<<<<< Updated upstream
   "formatter": "language_server",
   "ui_font_family": "Helvetica",
   "buffer_font_family": "RobotoMono Nerd Font Mono",
   "buffer_line_height": "standard"
+=======
+  "soft_wrap": "editor_width"
+>>>>>>> Stashed changes
 }
